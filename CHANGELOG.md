@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-13T10:33:34.858Z
-Commit: Fix memory leak in event handlers
+Timestamp: 2025-11-13T10:33:37.795Z
+Commit: Add export functionality for reports
