@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-13T10:32:54.671Z
-Commit: Patch security vulnerability in authentication
+Timestamp: 2025-11-13T10:33:18.243Z
+Commit: Resolve null pointer exception in user service
