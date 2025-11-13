@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-13T08:54:04.524Z
-Commit: Resolve null pointer exception in user service
+Timestamp: 2025-11-13T08:54:12.043Z
+Commit: Add export functionality for reports
