@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-13T10:24:52.406Z
-Commit: Patch API endpoint error handling
+Timestamp: 2025-11-13T10:25:17.176Z
+Commit: Fix memory leak in event handlers
