@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-20T07:13:53.946Z
-Commit: Introduce real-time notifications
+Timestamp: 2025-11-25T08:36:38.111Z
+Commit: Resolve null pointer exception in user service
